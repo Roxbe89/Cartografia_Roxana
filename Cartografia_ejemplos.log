@@ -1,0 +1,386 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.18)  29 NOV 2015 18:11
+entering extended mode
+**Cartografia_ejemplos.tex
+(Cartografia_ejemplos.tex
+LaTeX2e <2015/01/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 69 languages loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 142.
+) (framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip43
+\fb@frw=\dimen105
+\fb@frh=\dimen106
+\FrameRule=\dimen107
+\FrameSep=\dimen108
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\alltt.sty"
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\upquote\upquote.sty"
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+)
+(Cartografia_ejemplos.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen109
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen110
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks16
+)
+Package color Info: Redefining color shadecolor on input line 55.
+Missing character: There is no Ñ in font cmitt10!
+Package color Info: Redefining color shadecolor on input line 65.
+
+Overfull \hbox (3.2331pt too wide) in paragraph at lines 67--67
+[][]\OT1/cmtt/m/it/10 #EJEMPLO 1: Se representa con un punto rojo la capital de
+ Francia.[][] 
+ []
+
+Missing character: There is no í in font cmitt10!
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 70.
+
+Overfull \hbox (17.24684pt too wide) in paragraph at lines 80--80
+\OT1/cmtt/m/it/10 ##  Note: when rgeos is not available, polygon geometry compu
+tations
+ []
+
+
+Overfull \hbox (38.24666pt too wide) in paragraph at lines 82--82
+[][]\OT1/cmtt/m/n/10 france[][]<-[][]readShapeSpatial[][]([][]"FRA_adm0.shp"[][
+],[][]proj4string[][]=[][]CRS[][]([][]"+proj=longlat"[][]))[][] 
+ []
+
+<figure/unnamed-chunk-2-1.pdf, id=1, 505.89pt x 505.89pt>
+File: figure/unnamed-chunk-2-1.pdf Graphic file (type pdf)
+
+<use figure/unnamed-chunk-2-1.pdf>
+Package pdftex.def Info: figure/unnamed-chunk-2-1.pdf used on input line 87.
+(pdftex.def)             Requested size: 345.0pt x 345.00414pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 87--88
+[][] 
+ []
+
+[1
+
+{C:/Users/Roxy/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Overfull \hbox (13.733pt too wide) in paragraph at lines 89--89
+[][]\OT1/cmtt/m/it/10 #Se grafica el punto correspondiente a la capital de Fran
+cia (Paris)[][] 
+ []
+
+<figure/unnamed-chunk-2-2.pdf, id=9, 505.89pt x 505.89pt>
+File: figure/unnamed-chunk-2-2.pdf Graphic file (type pdf)
+
+<use figure/unnamed-chunk-2-2.pdf>
+Package pdftex.def Info: figure/unnamed-chunk-2-2.pdf used on input line 94.
+(pdftex.def)             Requested size: 345.0pt x 345.00414pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 94--95
+[][] 
+ []
+
+Package color Info: Redefining color shadecolor on input line 99.
+[2 <./figure/unnamed-chunk-2-1.pdf>]
+Overfull \hbox (218.48122pt too wide) in paragraph at lines 135--135
+[][]\OT1/cmtt/m/it/10 # unimos los tres data frame en uno y convertimos las col
+umnas de altura a entero y las coordenadas a texto[][] 
+ []
+
+Missing character: There is no ó in font cmitt10!
+Missing character: There is no á in font cmitt10!
+
+Overfull \hbox (50.48268pt too wide) in paragraph at lines 141--141
+[][]\OT1/cmtt/m/it/10 # creamos esta funcin para transformar las coordenadas ge
+ogrficas a decimal[][] 
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 142
+.
+(C:/PROGRA~1/R/R-32~1.1/share/texmf/tex/latex\omscmtt.fd
+File: omscmtt.fd 
+)
+LaTeX Font Info:    Font shape `OMS/cmtt/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 142.
+Missing character: There is no Â in font cmtt10!
+Missing character: There is no º in font cmtt10!
+
+Overfull \hbox (53.99652pt too wide) in paragraph at lines 144--144
+[]  []\OT1/cmtt/m/n/10 dec[][]<-[] []as.numeric[][](z[[][]1[][], ])[] []+[] []a
+s.numeric[][](z[[][]3[][], ])[][]/[][]60[] []+[] []as.numeric[][](z[[][]4[][], 
+])[][]/[][]3600[][] 
+ []
+
+
+Overfull \hbox (50.48268pt too wide) in paragraph at lines 148--148
+[][]\OT1/cmtt/m/it/10 # agregamos dos columnas con la latitud y longitud en coo
+rdenadas decimales[][] 
+ []
+
+
+Overfull \hbox (431.99323pt too wide) in paragraph at lines 167--167
+[]\OT1/cmtt/m/it/10 ## Map from URL : http://maps.googleapis.com/maps/api/stati
+cmap?center=Chile&zoom=4&size=640x640&scale=2&maptype=terrain&language=en-EN&se
+nsor=false 
+ []
+
+
+Overfull \hbox (185.24538pt too wide) in paragraph at lines 167--167
+\OT1/cmtt/m/it/10 ## Information from URL : http://maps.googleapis.com/maps/api
+/geocode/json?address=Chile&sensor=false[] 
+ []
+
+
+Overfull \hbox (326.99414pt too wide) in paragraph at lines 169--169
+[][]\OT1/cmtt/m/n/10 andes[] []<-[] []ggmap[][](map)[] []+[] []geom_point[][]([
+][]data[][]=df,[] []aes[][]([][]x[][]=longitude,[] []y[][]=latitude,[] []colour
+[][]=altura_m),[][]alpha[] []=[] []0.6[][],[] []show_guide[] []=[] []FALSE[][],
+[] []size[][]=[][]4[][])[][] 
+ []
+
+
+Overfull \hbox (195.74529pt too wide) in paragraph at lines 172--172
+[][]\OT1/cmtt/m/n/10 andes[] []<-[] []andes[] []+[] []scale_colour_continuous[]
+[]([][]low[] []=[] []"red"[][],[] []high[] []=[] []"blue"[][],[] []space[] []=[
+] []"Lab"[][],[] []guide[] []=[] []"colorbar"[][])[][] 
+ []
+
+[3 <./figure/unnamed-chunk-2-2.pdf>] [4]
+<figure/unnamed-chunk-3-1.pdf, id=26, 505.89pt x 505.89pt>
+File: figure/unnamed-chunk-3-1.pdf Graphic file (type pdf)
+
+<use figure/unnamed-chunk-3-1.pdf>
+Package pdftex.def Info: figure/unnamed-chunk-3-1.pdf used on input line 177.
+(pdftex.def)             Requested size: 345.0pt x 345.00414pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 177--178
+[][] 
+ []
+
+Package color Info: Redefining color shadecolor on input line 182.
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 196--196
+[]\OT1/cmtt/m/n/10 ## [11] "CCA_2"     "TYPE_2"    "ENGTYPE_2" "NL_NAME_2" "VAR
+NAME_2"[] 
+ []
+
+Missing character: There is no í in font cmitt10!
+Missing character: There is no á in font cmitt10!
+
+Overfull \hbox (8.48305pt too wide) in paragraph at lines 198--198
+[][]\OT1/cmtt/m/it/10 # El mapa y sus caractersticas estn cargados en gadm por 
+provincias[][] 
+ []
+
+Missing character: There is no ñ in font cmtt10!
+
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 217--217
+[]\OT1/cmtt/m/n/10 ## [1] "Barranca"   "Caete"     "Cajatambo"  "Canta"      "H
+uaral"[] 
+ []
+
+Missing character: There is no ú in font cmitt10!
+Missing character: There is no ó in font cmitt10!
+Missing character: There is no ú in font cmitt10!
+
+Overfull \hbox (48.74657pt too wide) in paragraph at lines 225--225
+[][]\OT1/cmtt/m/n/10 spplot[][](mapalima,[] []"provincias"[][],[] []col.regions
+[] []= col,[] []main[] []=[] []"Lima Provincias"[][])[][] 
+ []
+
+[5 <./figure/unnamed-chunk-3-1.pdf>]
+<figure/unnamed-chunk-4-1.pdf, id=41, 505.89pt x 505.89pt>
+File: figure/unnamed-chunk-4-1.pdf Graphic file (type pdf)
+
+<use figure/unnamed-chunk-4-1.pdf>
+Package pdftex.def Info: figure/unnamed-chunk-4-1.pdf used on input line 228.
+(pdftex.def)             Requested size: 345.0pt x 345.00414pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 228--229
+[][] 
+ []
+
+Package color Info: Redefining color shadecolor on input line 235.
+[6]
+Overfull \hbox (22.4968pt too wide) in paragraph at lines 242--242
+[][]\OT1/cmtt/m/n/10 SLV[][]<-[][]readShapeSpatial[][]([][]"SLV_adm1.shp"[][],[
+][]proj4string[][]=[][]CRS[][]([][]"+proj=longlat"[][]))[][] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 249--249
+[]\OT1/cmtt/m/n/10 ##  [6] "HASC_1"    "CCN_1"     "CCA_1"     "TYPE_1"    "ENG
+TYPE_1"[] 
+ []
+
+Missing character: There is no Ã in font cmtt10!
+Missing character: There is no ¡ in font cmtt10!
+Missing character: There is no Ã in font cmtt10!
+Missing character: There is no ± in font cmtt10!
+Missing character: There is no Ã in font cmtt10!
+Missing character: There is no ¡ in font cmtt10!
+Missing character: There is no Ã in font cmtt10!
+Missing character: There is no ³ in font cmtt10!
+Missing character: There is no Ã in font cmtt10!
+Missing character: There is no ¡ in font cmtt10!
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 258--258
+[]\OT1/cmtt/m/n/10 ##  [6] La Paz       La Unin    Morazn     San Miguel   San 
+Salvador[] 
+ []
+
+Missing character: There is no Ã in font cmtt10!
+Missing character: There is no ¡ in font cmtt10!
+Missing character: There is no Ã in font cmtt10!
+Missing character: There is no ¡ in font cmtt10!
+Missing character: There is no Ã in font cmtt10!
+Missing character: There is no ± in font cmtt10!
+Missing character: There is no Ã in font cmtt10!
+Missing character: There is no ¡ in font cmtt10!
+Missing character: There is no Ã in font cmtt10!
+Missing character: There is no ¡ in font cmtt10!
+[7 <./figure/unnamed-chunk-4-1.pdf>]
+<figure/unnamed-chunk-5-1.pdf, id=55, 505.89pt x 505.89pt>
+File: figure/unnamed-chunk-5-1.pdf Graphic file (type pdf)
+
+<use figure/unnamed-chunk-5-1.pdf>
+Package pdftex.def Info: figure/unnamed-chunk-5-1.pdf used on input line 263.
+(pdftex.def)             Requested size: 345.0pt x 345.00414pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 263--264
+[][] 
+ []
+
+<figure/unnamed-chunk-5-2.pdf, id=56, 505.89pt x 505.89pt>
+File: figure/unnamed-chunk-5-2.pdf Graphic file (type pdf)
+
+<use figure/unnamed-chunk-5-2.pdf>
+Package pdftex.def Info: figure/unnamed-chunk-5-2.pdf used on input line 269.
+(pdftex.def)             Requested size: 345.0pt x 345.00414pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 269--270
+[][] 
+ []
+
+Package color Info: Redefining color shadecolor on input line 274.
+[8 <./figure/unnamed-chunk-5-1.pdf>]
+<figure/unnamed-chunk-6-1.pdf, id=63, 505.89pt x 505.89pt>
+File: figure/unnamed-chunk-6-1.pdf Graphic file (type pdf)
+
+<use figure/unnamed-chunk-6-1.pdf>
+Package pdftex.def Info: figure/unnamed-chunk-6-1.pdf used on input line 284.
+(pdftex.def)             Requested size: 345.0pt x 345.00414pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 284--285
+[][] 
+ []
+
+[9 <./figure/unnamed-chunk-5-2.pdf>]
+<figure/unnamed-chunk-6-2.pdf, id=72, 505.89pt x 505.89pt>
+File: figure/unnamed-chunk-6-2.pdf Graphic file (type pdf)
+
+<use figure/unnamed-chunk-6-2.pdf>
+Package pdftex.def Info: figure/unnamed-chunk-6-2.pdf used on input line 295.
+(pdftex.def)             Requested size: 345.0pt x 345.00414pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 295--296
+[][] 
+ []
+
+[10 <./figure/unnamed-chunk-6-1.pdf>] [11 <./figure/unnamed-chunk-6-2.pdf>]
+(Cartografia_ejemplos.aux) ) 
+Here is how much of TeX's memory you used:
+ 1302 strings out of 493673
+ 18131 string characters out of 3141533
+ 86526 words of memory out of 3000000
+ 4673 multiletter control sequences out of 15000+200000
+ 3976 words of font info for 16 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 27i,5n,19p,404b,282s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmitt10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmtt10.pfb>
+Output written on Cartografia_ejemplos.pdf (11 pages, 1626772 bytes).
+PDF statistics:
+ 99 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+
